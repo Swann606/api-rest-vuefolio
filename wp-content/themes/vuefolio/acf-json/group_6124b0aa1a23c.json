@@ -3,7 +3,7 @@
     "title": "Project information",
     "fields": [
         {
-            "key": "field_6124b109ccc6e",
+            "key": "field_6127996071228",
             "label": "Image",
             "name": "image",
             "type": "image",
@@ -44,6 +44,25 @@
             "maxlength": "",
             "rows": "",
             "new_lines": ""
+        },
+        {
+            "key": "field_6127988f15712",
+            "label": "Tags",
+            "name": "tags",
+            "type": "text",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
         }
     ],
     "location": [
@@ -63,5 +82,5 @@
     "hide_on_screen": "",
     "active": true,
     "description": "",
-    "modified": 1629798597
+    "modified": 1629985171
 }

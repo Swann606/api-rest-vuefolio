@@ -11,396 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e60297af-d2bf-47fc-b377-d27cf9e5e8af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vuefolio_wp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/advanced-custom-fields-fr_FR-3b3403767e2622218e3eef52ad20df1e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/advanced-custom-fields-fr_FR-89819ef9478f5a250e2e9026c3469211.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/advanced-custom-fields-fr_FR-c92a0d01a76137d9cca8a21f9a6cb876.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/advanced-custom-fields-fr_FR.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/advanced-custom-fields-fr_FR.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/custom-post-type-ui-fr_FR.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/plugins/custom-post-type-ui-fr_FR.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/generatepress-fr_FR.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/generatepress-fr_FR.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/ClassMap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/BackupExport.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Cli/Cli.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Cli/CliManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Cli/Command.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Compatibility/Compatibility.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Compatibility/CompatibilityManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Db/MDBWPDB.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Error/ErrorLog.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Error/HandleRemotePostError.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Exceptions/EmptyPropertyException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Exceptions/SanitizationFailureException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Filesystem/Filesystem.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Filesystem/RecursiveScanner.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/FormData/FormData.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Helpers.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Http/Helper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Http/Http.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Http/RemotePost.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Http/Scramble.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Http/WPMDBRestAPIServer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Migration/FinalizeMigration.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Migration/Flush.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Migration/InitiateMigration.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Migration/MigrationHelper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Migration/MigrationManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/MigrationPersistence/Persistence.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/MigrationState/MigrationState.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/MigrationState/MigrationStateManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/MigrationState/StateDataContainer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Multisite/Multisite.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Plugin/Assets.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Plugin/Menu.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Plugin/PluginManagerBase.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Profile/ProfileImporter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Profile/ProfileManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Properties/DynamicProperties.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Properties/Properties.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Replace.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Replace/AbstractReplacePair.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Replace/CaseInsensitivePair.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Replace/CaseSensitivePair.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Replace/PairFactory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Replace/RegexPair.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Replace/ReplacePairInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Sanitize.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Settings/Settings.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Settings/SettingsManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Sql/Table.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Sql/TableHelper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/UI/Notice.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/UI/TemplateBase.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Util/Singleton.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Util/Util.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Common/Util/ZipAndEncode.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Container.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Free/ClassMap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Free/Plugin/PluginManager.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Free/UI/Template.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/Free/WPMigrateDBFree.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/SetupProviders.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/WPMDBDI.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/WPMDBDI_Config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/WPMigrateDB.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/class/deactivate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/compatibility/temp-theme/functions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/compatibility/wp-migrate-db-pro-compatibility.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/css/styles.9eff2a95.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/js/3.ae4257722e61.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/js/4.411d11d1872f.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/js/5.d7ebabfd784c.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/js/6.e563c1d84277.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/js/7.bf31c6da5932.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/js/main.5c779def7e21.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/js/styles.b5f20fd363dc.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/js/wpmdb-runtime.610c99b9f97f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/action-backup-database.ab9022dd.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/action-export-database.617087b6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/action-import-database.03003cd8.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/action-locked.482fac43.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/action-pull.24e5d47b.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/action-push.7ff4907c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/action-search-replace.233d7cca.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/add-white.be9240ce.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/add.1bef259d.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/addons-cli.ac2fd4d1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/addons-mediafiles.f54edcaf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/addons-multisitetools.2adb5e97.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/addons-theme-plugins-files.36ec9eaf.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/arrow.c1a70da4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/arrow.cf0deead.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/check-circular.d711efca.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/close.701e4829.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/error.7b3a3990.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/license-checked-blue.6eac3797.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/license-checked.690c80ca.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/logo-dbi.750eb14f.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/mdb-banner.e9de8a06.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/mdb-branding-transparent.28e08eca.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/mdb-medallion.3889318e.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/migration-failed.6c4df81c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/oval-close.f41c4991.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/oval-question.b5c84505.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/progress-section-check.5a74306e.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/progress-spinner.060c33d4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/rating-star-active.5c885dc4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/rating-star-inactive.afe8f8f2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/save-profile-btn.467c2381.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/search-replace-arrow.392c2316.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/search-replace-casesensitive.d86e08ba.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/search-replace-regex.80f530ee.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/search-replace.85677a93.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/testimonial-avatar.ea1dd40d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/build-free/static/media/twitter.c98af8b6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/mdb-2.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/plugin-update/plugin-update-styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/plugin-update/plugin-update-styles.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/plugin-update/plugin-update-styles.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/plugin-update/plugin-update.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/frontend/template/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/languages/wp-migrate-db-en.pot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/languages/wp-migrate-db-pt_BR.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/php-checker.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/react-wp-scripts.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/setup-mdb.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/setup-plugin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/template/common/muplugin-failed-update-warning.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/template/options-page-outdated-wp.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/template/options-tools-subsite.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/template/options.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/composer/ClassLoader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/composer/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/composer/autoload_classmap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/composer/autoload_files.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/composer/autoload_namespaces.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/composer/autoload_psr4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/composer/autoload_real.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/composer/autoload_static.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/composer/installed.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/docs/ContainerInterface-meta.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/docs/ContainerInterface.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/docs/Delegate-lookup-meta.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/docs/Delegate-lookup.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/docs/images/interoperating_containers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/docs/images/priority.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/docs/images/side_by_side_containers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/src/Interop/Container/ContainerInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/src/Interop/Container/Exception/ContainerException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/container-interop/container-interop/src/Interop/Container/Exception/NotFoundException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/UPGRADE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/build.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ApcCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ArrayCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/Cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/CacheProvider.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ChainCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ClearableCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/CouchbaseCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FileCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FilesystemCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FlushableCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/MemcacheCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/MemcachedCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/MongoDBCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/MultiGetCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/PhpFileCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/PredisCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/RedisCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/SQLite3Cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/Version.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/WinCacheCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/XcacheCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/lib/Doctrine/Common/Cache/ZendDataCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/phpunit.xml.dist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/ApcCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/ArrayCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/BaseFileCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/CacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/ChainCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/CouchbaseCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/FileCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/FilesystemCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/MemcacheCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/MemcachedCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/MongoDBCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/PhpFileCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/PredisCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/RedisCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/RiakCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/SQLite3CacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/WinCacheCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/XcacheCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/Common/Cache/ZendDataCacheTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/DoctrineTestCase.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/Doctrine/Tests/TestInit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/travis/php.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/doctrine/cache/tests/travis/phpunit.travis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/doc/parameter-resolvers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/CallableResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/Exception/InvocationException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/Exception/NotCallableException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/Exception/NotEnoughParametersException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/Invoker.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/InvokerInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/ParameterResolver/AssociativeArrayResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/ParameterResolver/Container/ParameterNameContainerResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/ParameterResolver/Container/TypeHintContainerResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/ParameterResolver/DefaultValueResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/ParameterResolver/NumericArrayResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/ParameterResolver/ParameterResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/ParameterResolver/ResolverChain.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/ParameterResolver/TypeHintResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/invoker/src/Reflection/CallableReflection.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/404.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/change-log.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/couscous.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/phpunit.xml.dist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Annotation/Inject.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Annotation/Injectable.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Cache/ArrayCache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Container.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/ContainerBuilder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Debug.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/AliasDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/ArrayDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/ArrayDefinitionExtension.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/CacheableDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/DecoratorDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Definition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Dumper/ObjectDefinitionDumper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/EntryReference.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/EnvironmentVariableDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Exception/AnnotationException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Exception/DefinitionException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/FactoryDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/HasSubDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Helper/ArrayDefinitionExtensionHelper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Helper/DefinitionHelper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Helper/EnvironmentVariableDefinitionHelper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Helper/FactoryDefinitionHelper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Helper/ObjectDefinitionHelper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Helper/StringDefinitionHelper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Helper/ValueDefinitionHelper.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/InstanceDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/ObjectDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/ObjectDefinition/MethodInjection.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/ObjectDefinition/PropertyInjection.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Resolver/ArrayResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Resolver/DecoratorResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Resolver/DefinitionResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Resolver/EnvironmentVariableResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Resolver/FactoryResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Resolver/InstanceInjector.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Resolver/ObjectCreator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Resolver/ParameterResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Resolver/ResolverDispatcher.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Resolver/SelfResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/SelfResolvingDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Source/AnnotationReader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Source/Autowiring.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Source/CachedDefinitionSource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Source/DefinitionArray.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Source/DefinitionFile.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Source/DefinitionSource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Source/MutableDefinitionSource.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/Source/SourceChain.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/StringDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Definition/ValueDefinition.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/DependencyException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Factory/RequestedEntry.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/FactoryInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Invoker/DefinitionParameterResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Invoker/FactoryParameterResolver.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/InvokerInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/NotFoundException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Proxy/ProxyFactory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/Scope.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/php-di/src/DI/functions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/phpdoc-reader/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/phpdoc-reader/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/phpdoc-reader/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/phpdoc-reader/src/PhpDocReader/AnnotationException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/phpdoc-reader/src/PhpDocReader/PhpDocReader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/phpdoc-reader/src/PhpDocReader/PhpParser/TokenParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/php-di/phpdoc-reader/src/PhpDocReader/PhpParser/UseStatementParser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/phpoption/phpoption/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/phpoption/phpoption/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/phpoption/phpoption/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/phpoption/phpoption/src/PhpOption/LazyOption.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/phpoption/phpoption/src/PhpOption/None.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/phpoption/phpoption/src/PhpOption/Option.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/phpoption/phpoption/src/PhpOption/Some.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/psr/container/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/psr/container/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/psr/container/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/psr/container/src/ContainerExceptionInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/psr/container/src/ContainerInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/psr/container/src/NotFoundExceptionInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/scoper-autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/symfony/polyfill-ctype/Ctype.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/symfony/polyfill-ctype/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/symfony/polyfill-ctype/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/symfony/polyfill-ctype/bootstrap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/symfony/polyfill-ctype/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Dotenv.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Exception/ExceptionInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Loader/Lines.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Loader/Loader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Loader/LoaderInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Loader/Parser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Loader/Value.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Regex/Regex.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/AbstractRepository.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/Adapter/AvailabilityInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReaderInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/Adapter/WriterInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Repository/RepositoryInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Result/Error.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Result/Result.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Result/Success.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Store/File/Paths.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Store/File/Reader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Store/FileStore.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Store/StoreInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Store/StringStore.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/vendor/vlucas/phpdotenv/src/Validator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/version.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/plugins/wp-migrate-db/wp-migrate-db.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/wp-migrate-db/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/wp-migrate-db/index.php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/plugins/vuefolio-plugin/Rest_Project_API.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/plugins/vuefolio-plugin/vuefolio-plugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/vuefolio-plugin/vuefolio-plugin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/vuefolio/acf-json/group_6124b0aa1a23c.json" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/vuefolio/acf-json/group_6124b0aa1a23c.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -422,13 +36,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vuefolio_wp1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/datacraft" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -445,7 +61,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629815733130</updated>
-      <workItem from="1629815734215" duration="3126000" />
+      <workItem from="1629815734215" duration="16607000" />
+      <workItem from="1629987514866" duration="6351000" />
+      <workItem from="1630048749667" duration="6270000" />
+      <workItem from="1630164331625" duration="139000" />
+      <workItem from="1630585094440" duration="2042000" />
+      <workItem from="1630929379454" duration="593000" />
+      <workItem from="1631623761184" duration="597000" />
+      <workItem from="1632144776472" duration="36000" />
+      <workItem from="1632147345769" duration="5000" />
+      <workItem from="1632987369278" duration="5000" />
+      <workItem from="1633332296789" duration="109000" />
     </task>
     <servers />
   </component>
@@ -462,11 +88,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1629818409102">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1630671836686">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="-1080" y="232" key="FileChooserDialogImpl/0.0.1536.824/-1680.27.1680.1010@-1680.27.1680.1010" timestamp="1630164468450" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1680.27.1680.1010@0.0.1536.824" timestamp="1630671836686" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1629818409102" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1630078024178">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1377" y="97" key="SettingsEditor/0.0.1536.824/-1680.27.1680.1010@-1680.27.1680.1010" timestamp="1630053034514" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1680.27.1680.1010@0.0.1536.824" timestamp="1629882541732" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1630078024178" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1629990160858" />
   </component>
 </project>
